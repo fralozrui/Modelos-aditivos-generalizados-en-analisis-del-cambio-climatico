@@ -70,6 +70,6 @@ knitr::opts_chunk$set(fig.path = 'figurasR/',
 \renewcommand{\footrulewidth}{0.4pt}
 
 
-# Título del Capítulo  ----
+# Título del Capítulo 2 ----
 
 ## Primera sección
