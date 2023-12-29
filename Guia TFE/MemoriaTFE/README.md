@@ -1,4 +1,3 @@
-# MemoriaTFE
+# Modelos aditivos generalizados en análisis del cambio climático
 
-Repositorio que mantiene actualizado el proyecto MemoriaTFE que se encuentra publicado a través de mi página web: 
-<http://destio.us.es/calvo/post/escribir-un-trabajo-fin-de-estudios-con-rmarkdown/>.
+Trabajo de fin de grado de Francisco José Lozano Ruiz.
