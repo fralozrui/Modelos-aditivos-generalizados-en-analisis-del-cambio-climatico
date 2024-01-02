@@ -15,3 +15,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # TODO o tareas por realizar
 
+-) Introducción a Forecast: 
+   https://otexts.com/fpp2/planning.html
+   https://github.com/robjhyndman/forecast
